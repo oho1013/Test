@@ -15,7 +15,7 @@ namespace WebApplication1.Tests.Controllers
         [TestMethod]
         public void Index()
         {
-            // Arrange
+            // Arrange 小鸡炖蘑菇
             HomeController controller = new HomeController();
 
             // Act
